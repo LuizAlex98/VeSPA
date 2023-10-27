@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/luizalex/Música/VeSPA/VeSPA.srcs/sources_1/new/Control_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/luizalex/Música/VeSPA/VeSPA.srcs/sources_1/new/Datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/luizalex/Música/VeSPA/VeSPA.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/luizalex/Música/VeSPA/VeSPA.srcs/sim_1/new/tb_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/luizalex/Música/VeSPA/VeSPA.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

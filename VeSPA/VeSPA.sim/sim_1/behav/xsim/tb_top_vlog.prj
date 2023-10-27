@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../VeSPA.srcs/sources_1/new/Control_Unit.v" \
+"../../../../VeSPA.srcs/sources_1/new/Datapath.v" \
+"../../../../VeSPA.srcs/sources_1/new/top.v" \
+"../../../../VeSPA.srcs/sim_1/new/tb_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
